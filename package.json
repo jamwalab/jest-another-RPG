@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A command line roll playing game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamwalab/jest-another-RPG.git"
+  },
+  "keywords": [
+    "RPG"
+  ],
+  "author": "Abhishek Jamwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamwalab/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/jamwalab/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
